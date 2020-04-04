@@ -1,0 +1,6 @@
+{
+	"version": "0.1.0",
+	"name": "ts-runtime",
+	"description": "A lightweight standalone TypeScript runtime.",
+	"index": "bootstrap.js"
+}
